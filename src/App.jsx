@@ -1,6 +1,7 @@
 import Navbar from "./Componats/Navbar"
 import Hero from "./Componats/Hero"
 import Highlights from "./Componats/Highlights"
+import Model from "./Componats/Model"
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
        <Navbar/>
        <Hero/>
        <Highlights/>
+       <Model/>
     </main>
   )
 }
